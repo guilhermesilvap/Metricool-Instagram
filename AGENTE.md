@@ -23,9 +23,16 @@ Como o post vai ao ar sem revisão, qualidade e precisão vêm antes de criativi
 
 | Dia da execução | Feed (10:00) | Extra |
 | --- | --- | --- |
-| Segunda | Carrossel de 5 a 7 slides | Antes de criar, rode a revisão semanal (abaixo) |
-| Quarta | Post único (1 imagem) | Story às 18:00 reforçando o post do dia ou uma oferta (ORÇAMENTO SEM CUSTO) |
-| Sexta | Carrossel ou post único (alterne com a segunda) | — |
+| Segunda | Carrossel de 5 a 7 slides | Revisão semanal (abaixo) antes de criar · Story às 18:00 |
+| Quarta | Post único (1 imagem) | Story às 18:00 |
+| Sexta | Carrossel ou post único (alterne com a segunda) | Story às 18:00 |
+
+Stories (um por execução, às 18:00) alternam entre três tipos:
+- **teaser do post do dia** ("Post novo no feed: <título curto>");
+- **dica rápida** (uma frase útil + "mais no perfil");
+- **oferta** (ORÇAMENTO SEM CUSTO + "fale com a gente pelo direct").
+
+Limitação: a API do Instagram não permite adicionar figurinhas (link, enquete, caixa de pergunta). Por isso, **nunca desenhe um espaço reservado para figurinha**. Escreva o chamado na própria arte ("link na bio", "manda DIRECT com a palavra SITE").
 
 Os horários vêm do "melhor horário" do Metricool: 10h nos três dias. Se `getBestTimeToPostByNetwork` mostrar outro pico claro (diferença maior que 15%), use o novo horário e registre isso em `aprendizados.md`.
 
@@ -44,6 +51,7 @@ Os horários vêm do "melhor horário" do Metricool: 10h nos três dias. Se `get
    - Títulos com as fórmulas do guia: caixa alta, de 4 a 9 palavras, destaque em `<em>` (sky) no final.
    - Legenda: gancho em até 125 caracteres, 3 a 6 linhas curtas (PAS ou AIDA), um CTA explícito e 3 a 5 hashtags.
    - Para despertar comentários, prefira CTAs como "comenta X". Varie a palavra e o tipo de CTA entre os posts.
+   - Aplique as táticas de crescimento (seção abaixo).
 4. **Crie a arte.**
    - Crie `posts/AAAA-MM-DD-<formato>-<slug>/arte.html` linkando `../../ferramentas/marca.css`.
    - Componha com as peças do modelo: cabeçalho BIFROST., título em dois tons, um mockup (navegador, celular, chips de fluxo, gráfico, busca, antes → depois), orbe + órbitas e rodapé/CTA.
@@ -69,6 +77,18 @@ Os horários vêm do "melhor horário" do Metricool: 10h nos três dias. Se `get
    - Se o horário já passou, agende para daqui a 30 minutos.
 8. **Registre.** Acrescente a linha em `historico.md`, faça commit e push.
 9. **Avise o Guilherme** em uma mensagem curta com o tema, o formato, o horário, o link `plannerUrl` do Metricool e a primeira imagem.
+
+## Crescimento: atrair seguidores, não só curtidas
+
+Quem descobre a Bifrost é gente que ainda não segue o perfil. Por isso:
+
+- **Conteúdo que se salva e se compartilha.** Pelo menos 1 post por semana deve ser material de referência: checklist, "erros comuns", passo a passo ou comparativo ("site x landing page: qual você precisa?"). Na legenda, peça para **salvar** ou **enviar para o sócio**. Salvamentos e envios são o que mais faz o Instagram mostrar o post para não seguidores.
+- **Gancho no primeiro slide.** A capa precisa prometer um benefício ou tocar uma dor específica em até 9 palavras. Nunca abra com o nome da empresa ou com "Você sabia?".
+- **Último slide pede para seguir** em metade dos carrosséis ("Siga @bifrosttech para mais dicas de tecnologia para o seu negócio"). Na outra metade, o CTA é de proposta.
+- **SEO do Instagram.** A busca do Instagram lê legenda e texto alternativo. Coloque nas 2 primeiras linhas da legenda as palavras-chave que o cliente pesquisaria (ex.: "site para empresa", "automação de WhatsApp", "sistema de gestão sob medida") e use 3 a 5 hashtags de nicho, nunca genéricas como #tecnologia.
+- **Ganchos de comentário.** Termine com uma pergunta fácil de responder ("Qual desses sinais mais pesa aí? Responde com o número") ou com o "comenta X". Comentários aumentam o alcance.
+- **Temas de alta procura.** No pilar de tendência, priorize assuntos que donos de PME estão buscando agora (IA no atendimento, WhatsApp Business, golpes e segurança, Google Meu Negócio), sempre fechando com o serviço da Bifrost relacionado.
+- **Aprenda com os números.** Na revisão semanal, compare o **alcance de não seguidores** e o crescimento de seguidores por post, quando o Metricool tiver essas métricas. Repita o formato e o tipo de gancho que mais trouxeram gente nova.
 
 ## Revisão semanal (segundas, antes do post)
 
