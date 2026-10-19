@@ -40,7 +40,7 @@ Os horários vêm do "melhor horário" do Metricool: 10h nos três dias. Se `get
 
 1. **Contexto.**
    - Leia `historico.md` e `aprendizados.md`.
-   - Rode `getScheduledPosts` dos próximos 3 dias. **Se já existe um post agendado para hoje, pare e não duplique.**
+   - Rode `getScheduledPosts` dos próximos 3 dias. **Se já existe um post de feed agendado para hoje, não crie outro: pule para o story. Se o story de hoje também já existe, pare.** O story pode reforçar o post de feed já agendado.
 2. **Escolha o tema.**
    - Siga o rodízio de pilares de `marca/voz-e-copywriting.md` (dor → solução 35%, educação 30%, tendência 20%, prova/bastidores 15%), sem repetir o pilar do último post.
    - Alterne o serviço em foco entre os quatro.
