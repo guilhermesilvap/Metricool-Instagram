@@ -1,0 +1,27 @@
+:root{--ground:#131313;--surface:#1b1b1b;--surface-2:#262626;--line:#333333;--ink:#f0eee9;--ink-soft:#c9c7c2;
+--ink-muted:#8a8a86;--sky:#7cc4fb;--blue:#1f72d6;--orb-light:#e6f2fc;--on-blue:#fff;--on-ink:#131313;
+--mx:88px;--my:96px;--font:Arial,"Liberation Sans",Helvetica,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:#000;font-family:var(--font)}
+.slide{position:relative;width:1080px;height:1350px;overflow:hidden;background:var(--ground);color:var(--ink);margin-bottom:20px}
+.head{position:absolute;top:var(--my);left:var(--mx);right:var(--mx);display:flex;justify-content:space-between;align-items:center;z-index:5}
+.mark{font-size:38px;font-weight:700;letter-spacing:.028em}
+.eb{font-size:27px;letter-spacing:.115em;text-transform:uppercase}
+.muted{color:var(--ink-muted)}
+.foot{position:absolute;bottom:var(--my);left:var(--mx);right:var(--mx);display:flex;justify-content:space-between;align-items:center;z-index:5}
+h1{margin:0;font-weight:400;text-transform:uppercase;color:var(--ink)}
+h1 em{font-style:normal;color:var(--sky)}
+.hero{font-size:118px;line-height:.92;letter-spacing:-.027em}
+.tmd{font-size:84px;line-height:.95;letter-spacing:-.024em}
+.body{font-size:42px;line-height:1.25;color:var(--ink-soft);margin:0}
+.num{font-size:27px;color:var(--ink-muted);letter-spacing:.05em}
+.orb{position:absolute;border-radius:50%;background:linear-gradient(225deg,var(--orb-light) 0%,var(--sky) 45%,var(--blue) 100%)}
+.ring{position:absolute;border-radius:50%;border:1.5px solid var(--line)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:22px}
+.chip{display:inline-block;padding:20px 26px;border-radius:14px;font-size:33px;line-height:1.2;position:relative}
+.c1{background:var(--surface);border:1px solid var(--line)}
+.c2{background:var(--blue);color:var(--on-blue);font-weight:700}
+.c3{background:var(--ink);color:var(--on-ink);font-weight:700}
+.cta{display:inline-flex;padding:24px 32px;border-radius:8px;font-size:27px;letter-spacing:.077em;text-transform:uppercase}
+.cta.solid{background:var(--ink);color:var(--on-ink);font-weight:700}
+.bottom{position:absolute;left:var(--mx);right:var(--mx);bottom:var(--my)}
+.story{position:relative;width:1080px;height:1920px;overflow:hidden;background:var(--ground);color:var(--ink);margin-bottom:20px}
