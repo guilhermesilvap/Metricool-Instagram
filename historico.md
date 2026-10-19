@@ -4,4 +4,4 @@ Uma linha por post, a mais recente no fim. O agente lê antes de escolher o pró
 
 | Data | Formato | Pilar | Serviço | Tema | Pasta |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-19 10:00 | Carrossel (7) | Dor → solução | Software sob medida / automação | 5 sinais de que sua empresa precisa de um sistema | posts/2026-10-19-carrossel-sinais-sistema |
+| 2026-10-19 10:00 | Carrossel (9) | Dor → solução + apresentação | Software sob medida / automação + as 4 frentes | 5 sinais de que sua empresa precisa de um sistema + quem somos / o que oferecemos (primeiro post do perfil) | posts/2026-10-19-carrossel-sinais-sistema-v2 |
