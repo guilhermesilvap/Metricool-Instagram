@@ -93,11 +93,13 @@ Os horários vêm do "melhor horário" do Metricool: 10h nos três dias. Se `get
    - palavra quebrada no meio;
    - mais de uma cor de destaque;
    - erro de português;
+   - no Tech da semana, notícia sem "O que é:" e "O que muda:" ou sem fonte e data no slide;
    - texto sobre parte clara da foto ou com pouco contraste;
    - foto borrada, esticada, pixelada ou cortada em lugar estranho (cabeça cortada, objeto principal escondido pelo texto).
 6. **Publique as imagens.**
    - `git add`, `commit` e `git push` na `main`. No fim da mensagem de commit, inclua as linhas de atribuição que a sessão indicar.
    - Confira cada URL raw com `curl -o /dev/null -w "%{http_code}"`. Precisa voltar 200 antes de agendar.
+   - No Metricool, use a URL fixada no commit (`https://raw.githubusercontent.com/guilhermesilvap/Metricool-Instagram/<sha do commit>/posts/<pasta>/slide-N.jpg`). Assim, uma imagem refeita nunca sai na versão antiga que ficou em cache.
 7. **Agende no Metricool** com `createScheduledPost`:
    - `autoPublish: true`;
    - `providers: [{"network":"instagram"}]`;
