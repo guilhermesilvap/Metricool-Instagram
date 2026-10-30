@@ -1,0 +1,23 @@
+{
+ "foto-1.jpg": {
+  "fonte": "Unsplash",
+  "id": "aCkaR5G4Zd4",
+  "autor": "FrabPOS Team",
+  "autor_url": "https://unsplash.com/@frabpos?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/black-laptop-computer-on-brown-wooden-table-aCkaR5G4Zd4"
+ },
+ "foto-2.jpg": {
+  "fonte": "Unsplash",
+  "id": "PjoJga8EovQ",
+  "autor": "Asterfolio",
+  "autor_url": "https://unsplash.com/@asterfolio?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/person-holding-black-iphone-4-PjoJga8EovQ"
+ },
+ "foto-3.jpg": {
+  "fonte": "Unsplash",
+  "id": "2UONyqiBh5M",
+  "autor": "Bayu Syaits",
+  "autor_url": "https://unsplash.com/@bayusyaits?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/laptop-displaying-baked-goods-on-a-wooden-table-2UONyqiBh5M"
+ }
+}
