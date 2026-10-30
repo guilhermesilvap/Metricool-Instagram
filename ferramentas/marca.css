@@ -25,3 +25,13 @@ h1 em{font-style:normal;color:var(--sky)}
 .cta.solid{background:var(--ink);color:var(--on-ink);font-weight:700}
 .bottom{position:absolute;left:var(--mx);right:var(--mx);bottom:var(--my)}
 .story{position:relative;width:1080px;height:1920px;overflow:hidden;background:var(--ground);color:var(--ink);margin-bottom:20px}
+/* ---- Famílias "foto" e "editorial" (out/2026) ---- */
+.foto{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.82) contrast(1.04)}
+.tinta{position:absolute;inset:0;background:var(--blue);mix-blend-mode:color;opacity:.18}
+.veu{position:absolute;inset:0;background:linear-gradient(180deg,rgba(19,19,19,.72) 0%,rgba(19,19,19,0) 20%,rgba(19,19,19,0) 34%,rgba(19,19,19,.82) 56%,#131313 76%)}
+.veu-forte{position:absolute;inset:0;background:linear-gradient(180deg,rgba(19,19,19,.78) 0%,rgba(19,19,19,.55) 40%,rgba(19,19,19,.92) 100%)}
+.recorte{position:absolute;overflow:hidden;border-radius:22px;border:1px solid var(--line);background:var(--surface)}
+.recorte img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(.82) contrast(1.04)}
+.tag{display:inline-block;padding:12px 20px;border:1.5px solid var(--ink);border-radius:999px;font-size:22px;letter-spacing:.115em;text-transform:uppercase}
+.manchete{font-size:68px;line-height:.98;letter-spacing:-.02em}
+.credito{font-size:20px;line-height:1.35;color:var(--ink-muted);letter-spacing:.02em;margin:0}

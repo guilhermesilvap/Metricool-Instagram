@@ -38,12 +38,17 @@ Os títulos têm entre 4 e 9 palavras. A parte em sky é o benefício.
 ## CTAs aprovados
 SOLICITAR PROPOSTA → · FALE CONOSCO → · QUERO UM ORÇAMENTO · ORÇAMENTO SEM CUSTO · ARRASTE PARA O LADO →
 
-## Pilares de conteúdo (rodízio semanal)
-| Pilar | Peso | Exemplo |
-| --- | --- | --- |
-| **Dor → solução** (produto) | 35% | "5 sinais de que sua empresa precisa de um sistema próprio" |
-| **Educação de tecnologia aplicada** | 30% | "O que é uma landing page e por que seu anúncio precisa de uma" |
-| **Tendência e dado do mercado** | 20% | "IA no atendimento: o que já funciona para PMEs em 2026" |
-| **Prova e bastidores** | 15% | Antes → depois de um site, processo de desenvolvimento, cases |
+## Pilares de conteúdo (atualizado em 30/10/2026)
+| Pilar | Peso | Dia | Exemplo |
+| --- | --- | --- | --- |
+| **Dor → solução** (produto) | ~30% | segunda | "O que o site de uma clínica precisa ter", "5 sinais de que sua empresa precisa de um sistema" |
+| **Educação de tecnologia e design** | ~35% | quarta | Design em 1 minuto, tipos de site, glossário sem jargão, mito ou verdade |
+| **Tendência / Tech da semana** | ~30% | sexta | 3 notícias da semana que mexem com pequenas empresas, com fonte e data |
+| **Prova e bastidores** | ~5% | segunda, no máximo 1x por mês | Processo de desenvolvimento em etapas |
 
-Todo post, mesmo o de tendência, precisa terminar ligado a uma das quatro frentes: site institucional, landing page, software sob medida ou automação.
+Todo post, mesmo o de notícias, precisa terminar ligado a uma das quatro frentes: site institucional, landing page, software sob medida ou automação.
+
+## Notícias (Tech da semana)
+- Manchete com as palavras da Bifrost, não copiada do portal. Fato primeiro, sem sensacionalismo ("O Google mudou X", não "URGENTE").
+- Uma linha "O que muda:" em linguagem de dono de empresa.
+- Fonte e data em cada slide. Na legenda, cite os veículos.

@@ -1,0 +1,32 @@
+<!doctype html><html><head><meta charset='utf-8'><link rel="stylesheet" href="../ferramentas/marca.css">
+<style>.opc{display:flex;gap:24px}.opc .card{flex:1;padding:30px;font-size:40px;line-height:1.1}.opc .letra{font-size:30px;color:var(--ink-muted);display:block;margin-bottom:14px;letter-spacing:.1em}</style></head><body>
+<!-- Modelos de story com foto. Área segura: nada nos 250px do topo nem nos 340px da base (CTA termina acima de y=1580).
+     Sem figurinha: o chamado vai escrito na arte. -->
+
+<!-- A · NOTÍCIA DO DIA (sexta): foto inteira + véu + manchete -->
+<section class="story">
+  <img class="foto" src="amostras/foto-clara.jpg"><div class="tinta"></div><div class="veu"></div>
+  <div class="head" style="top:250px"><span class="mark">BIFROST.</span><span class="eb">Notícia do dia</span></div>
+  <div style="position:absolute;left:var(--mx);right:var(--mx);top:1020px">
+    <span class="tag">[Tema]</span>
+    <h1 class="tmd" style="font-size:84px;margin-top:30px">[Manchete curta <em>com o fato no fim</em>]</h1>
+    <p class="credito" style="margin-top:22px;font-size:24px">Fonte: [Veículo], [dd/mm/aaaa]</p>
+    <div style="margin-top:34px"><span class="cta solid">Mais no feed →</span></div>
+  </div>
+</section>
+
+<!-- B · ISSO OU AQUILO (quarta): pergunta + duas opções; resposta pelo direct -->
+<section class="story">
+  <img class="foto" src="amostras/foto-escura.jpg" style="height:900px"><div class="tinta" style="height:900px"></div>
+  <div style="position:absolute;left:0;right:0;top:0;height:900px;background:linear-gradient(180deg,rgba(19,19,19,.7) 0%,rgba(19,19,19,0) 30%,rgba(19,19,19,0) 60%,#131313 100%)"></div>
+  <div class="head" style="top:250px"><span class="mark">BIFROST.</span><span class="eb">Isso ou aquilo?</span></div>
+  <div style="position:absolute;left:var(--mx);right:var(--mx);top:940px">
+    <h1 class="tmd" style="font-size:76px">Onde seu cliente <em>te encontra primeiro?</em></h1>
+    <div class="opc" style="margin-top:44px">
+      <div class="card"><span class="letra">A</span>Só no Instagram</div>
+      <div class="card"><span class="letra">B</span>No Google, pelo site</div>
+    </div>
+    <p class="body" style="margin-top:34px;font-size:36px">Responde A ou B no direct.</p>
+  </div>
+</section>
+</body></html>

@@ -22,10 +22,13 @@
 - **Grade 2×2 de serviços**: título no topo e quatro CardServico. CTA sólido no rodapé.
 - **Número gigante**: campo de busca flutuando sobre o orbe, `stat` em sky, `lead` explicando e `caption` com a fonte.
 - **Carrossel**: capa com visual antes → depois no topo e título hero na base; slides internos com fluxo em chips no topo, número, título-md e corpo; slide final com título enorme, CTA sólido e orbe na base.
+- **Carrossel foto** (`modelos/foto-exemplo.html`): capa com foto em tela cheia, véu e título hero na base; slides internos com foto recortada (y 200–720), número, título-md (76px) e corpo; fechamento com foto escurecida (`.veu-forte`) e CTA.
+- **Carrossel editorial / Tech da semana** (`modelos/editorial-exemplo.html`): capa com tag "TECH DA SEMANA · datas", foto recortada e título hero; cada notícia com tag do tema, foto 16:9 (y 290–710), manchete (68px), "O que muda:" e fonte + data no rodapé; fechamento pedindo para seguir.
 
 ## Stories
 - Mesmo cabeçalho, mas descido para y = 250.
 - Eyebrow com a oferta (ORÇAMENTO SEM CUSTO), título `title` em dois tons.
 - Visual (navegador + celular sobre o orbe) no centro.
-- Uma área tracejada de 1px em `line` reservada para o **sticker de link** do Instagram, acima da zona de 340px da base.
+- **Nunca** reserve espaço para figurinha (a API não as adiciona). O chamado vai escrito na arte.
+- Com foto (`modelos/story-foto-exemplo.html`): **notícia do dia** (foto inteira + véu + manchete a partir de y≈1020) e **isso ou aquilo** (foto nos 900px de cima, pergunta e dois cards A/B embaixo).
 - Sem rodapé @BIFROST.TECH, porque o perfil já aparece no topo do story.

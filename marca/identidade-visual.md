@@ -6,7 +6,7 @@ Este design system descreve a marca para o Instagram. Ele foi montado a partir d
 
 ## A marca em uma frase
 
-Escura, precisa e calma. Títulos enormes em caixa alta, uma palavra em azul-céu, um único visual de produto (um site, um celular, um fluxo, um número) e um orbe azul de luz. Sem emoji, sem foto de banco de imagem, sem ilustração de pessoas.
+Escura, precisa e calma. Títulos enormes em caixa alta, uma palavra em azul-céu e um único visual: um mockup de produto (família clássica) ou uma foto real em alta definição (famílias foto e editorial). Sem emoji, sem ilustração de pessoas, sem imagem com cara de IA.
 
 ## Fundamentos visuais
 
@@ -45,6 +45,14 @@ O visual de cada post é um pedaço de produto desenhado com formas planas, não
 - **Busca**: campo `surface` em pílula, com ícone de lupa e o texto digitado.
 - **Antes → depois**: planilha caótica (grade `line`, células em vermelho-escuro apagado) → seta `sky` → painel organizado.
 
+### Fotografia (famílias foto e editorial, desde 30/10/2026)
+- Fonte: Pexels ou Unsplash, buscadas com `ferramentas/foto.py`, com crédito do fotógrafo na legenda.
+- Assunto: ambientes de trabalho reais (recepção, cozinha, loja, escritório, oficina), objetos (celular, notebook, maquininha, caderno), telas e mãos. Luz natural, tons sóbrios.
+- Tratamento padrão: `.foto` (saturação 0,82) + `.tinta` (azul a 18% no modo cor) + `.veu`. É isso que deixa fotos de fontes diferentes com a mesma cara da marca.
+- Texto nunca sobre a área clara da foto: o título fica na parte escura do véu, ou fora da foto quando ela está num `.recorte`.
+- Uma foto por slide. Em post com foto, o orbe é opcional e, se usado, fica fora da foto.
+- Proibido: rosto como assunto principal, pose de banco de imagem (aperto de mão, sorriso para a câmera, dedo apontando para a tela), marca d'água, logotipo de terceiros em destaque, print de site de outra empresa, foto da matéria de um portal de notícias, imagem gerada por IA.
+
 ### Espaço e grade
 - Margem lateral `margin-x` (88px) e margem vertical `margin-y` (96px) no feed.
 - Cabeçalho fixo: `BIFROST.` à esquerda e eyebrow ou contador à direita, na mesma linha.
@@ -67,9 +75,11 @@ O logo é tipográfico: **BIFROST.** em Arial Bold, caixa alta, tracking 0,028em
 
 ## O que nunca fazer
 - Fundo claro, bege ou branco em post de feed.
-- Emoji, foto de banco de imagem, pessoas, mascotes, 3D brilhante.
+- Emoji, mascotes, 3D brilhante, ilustração de pessoas.
+- Foto fora das regras da seção Fotografia (rosto em destaque, pose de banco de imagem, marca d'água, IA).
 - Gradiente roxo/rosa/neon ou "cara de IA".
 - Mais de uma cor de destaque ou mais de um orbe.
+- Texto sobre parte clara de foto.
 - Título em minúsculas ou em negrito.
 - Texto sobre o orbe.
 - Mais de ~25 palavras de texto na arte de um post único.
