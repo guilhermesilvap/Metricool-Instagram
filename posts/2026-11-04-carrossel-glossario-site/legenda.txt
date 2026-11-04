@@ -1,0 +1,13 @@
+Domínio, hospedagem e SSL: três palavras que aparecem em todo orçamento de site e quase ninguém explica.
+
+Quando você entende o que cada uma faz, fica mais fácil comparar propostas e saber o que é seu.
+
+→ Domínio é o endereço: o nome que o cliente digita para chegar até você (suaempresa.com.br). O .br é registrado no Registro.br e precisa ser renovado; deixe ele no nome da sua empresa.
+→ Hospedagem é onde o site mora: um computador ligado o tempo todo que guarda os arquivos do site. Sem ela, o endereço não abre nada.
+→ SSL é o cadeado: protege o que o visitante envia, como um formulário de contato. Sem ele, o navegador mostra "Não seguro" ao lado do endereço.
+
+Salva este post para consultar na próxima conversa sobre o site da sua empresa.
+
+E conta aqui: qual outro termo de site você quer que a gente explique sem jargão?
+
+#sitesprofissionais #siteinstitucional #criacaodesites #pequenasempresas #dominio
