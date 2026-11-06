@@ -1,18 +1,20 @@
-Nota fiscal de serviço nacional para o Simples e golpe de site falso na Black Friday: as notícias da semana para quem tem empresa.
+Google, OpenAI e WhatsApp lançaram novidades de IA e de atendimento nesta semana. Veja o que cada uma faz e onde ela ajuda sua empresa.
 
-1. NFS-e do Simples agora sai pelo sistema nacional
-Desde 1º de novembro, microempresas e empresas de pequeno porte prestadoras de serviço, optantes do Simples Nacional, emitem a nota fiscal de serviço (NFS-e) pelo Emissor Nacional, na internet ou por um sistema integrado a ele. A decisão é do Comitê Gestor do Simples Nacional.
-Por enquanto, só a emissão muda; as demais regras do Simples seguem iguais até o fim de 2026. Se você emite nota por um sistema próprio ou da prefeitura, confirme com seu contador e com o fornecedor do sistema se ele já está integrado.
+1. Google: vídeo de IA maior e mais barato
+O Google liberou o Gemini Omni 1.2 Flash, seu modelo de IA que cria e edita vídeos. Agora os clipes podem ter até 15 segundos (antes eram 10), e o preço caiu 30% em relação à versão anterior. Ele está na API do Gemini, no Google Cloud e no Google Vids, onde os clipes de 15 segundos não têm custo extra para quem usa conta Google ou Google Workspace.
+Na prática, fica mais barato fazer um vídeo curto de produto ou de anúncio sem estúdio.
 
-2. Site falso é o golpe mais citado da Black Friday
-Numa pesquisa da Serasa Experian feita em setembro, com 1.480 pessoas, 53% citaram sites falsos, a modalidade mais lembrada, à frente dos golpes com Pix (42%). E 86% disseram já ter desistido de uma promoção por medo de fraude. A Black Friday deste ano é em 27/11.
-Para quem vende, isso quer dizer que o cliente vai checar antes de pagar. Divulgue um só endereço oficial e deixe CNPJ, contato e o cadeado do https fáceis de achar.
+2. OpenAI: ChatGPT agora faz GIF
+A OpenAI lançou o Images 2.6, novo modelo de imagens do ChatGPT. Segundo o MacMagazine, ele gera imagens até 50% mais rápido, cria GIFs animados só com um texto e mantém melhor o mesmo personagem, produto ou identidade visual de uma imagem para a outra.
+Para quem cria post para a própria marca, isso ajuda a manter tudo com a mesma cara.
 
-Arrasta pro lado para ver os 3 cuidados desta semana.
+3. WhatsApp: convite de evento que abre fora do app
+O recurso de eventos do WhatsApp agora gera um link que pode ser aberto por quem não tem o app: a pessoa vê o título e a foto do evento e confirma presença. O endereço só aparece depois da confirmação. Também chega uma Central de Eventos para criar e acompanhar tudo num lugar só. A liberação é gradual, nas próximas semanas.
+Serve para chamar clientes para um lançamento, uma aula ou um dia de promoção e saber quantos vão.
 
-Salva este post e envia para quem cuida das notas e das vendas aí.
+Qual dessas você testaria primeiro? Comenta 1, 2 ou 3.
 
-Fontes: A Tarde (01/11/2026) e Olhar Digital (05/11/2026, pesquisa Serasa Experian).
-Fotos: Nathana Rebouças / Unsplash · Burst / Unsplash · Jonas Leupe / Unsplash
+Fontes: blog oficial do Google (05/11/2026) e MacMagazine (05/11/2026; a notícia do WhatsApp tem como base o blog oficial do app).
+Fotos: Burst / Unsplash · Amjith S / Unsplash · Theme Photos / Unsplash · Jonas Leupe / Unsplash
 
-#notafiscaleletronica #simplesnacional #blackfriday2026 #pequenasempresas #automacaodeprocessos
+#inteligenciaartificial #chatgpt #googlegemini #whatsappbusiness #automacaodeprocessos
