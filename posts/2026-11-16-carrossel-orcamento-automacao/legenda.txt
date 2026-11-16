@@ -1,6 +1,6 @@
 Cliente pediu orçamento e fechou com outro antes de você responder? A automação de orçamentos resolve isso.
 
-Na maioria das pequenas empresas, o orçamento ainda é montado à mão: copia item, procura o preço na planilha, monta o arquivo e envia. Depois, ninguém lembra de voltar a falar com o cliente.
+Em muitas pequenas empresas, o orçamento ainda é montado à mão: copia item, procura o preço na planilha, monta o arquivo e envia. Depois, ninguém lembra de voltar a falar com o cliente.
 
 Cada etapa parece pequena. Somadas, atrasam a resposta e deixam o cliente esfriar.
 
