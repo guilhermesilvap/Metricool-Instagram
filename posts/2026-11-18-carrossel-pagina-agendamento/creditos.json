@@ -1,0 +1,37 @@
+{
+ "foto-1.jpg": {
+  "fonte": "Unsplash",
+  "id": "dU6eE_j2My8",
+  "autor": "Joshua Lawrence",
+  "autor_url": "https://unsplash.com/@orangetiephotography?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/black-and-silver-barber-chair-dU6eE_j2My8"
+ },
+ "foto-5.jpg": {
+  "fonte": "Unsplash",
+  "id": "k6RsU8om2UE",
+  "autor": "František Čaník",
+  "autor_url": "https://unsplash.com/@snipi?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/a-barber-shop-with-a-brick-wall-and-wooden-floors-k6RsU8om2UE"
+ },
+ "foto-3.jpg": {
+  "fonte": "Unsplash",
+  "id": "cFJcDGUWnes",
+  "autor": "Deliberate Directions",
+  "autor_url": "https://unsplash.com/@deliberatedirections?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/a-modern-office-space-with-stylish-decor-cFJcDGUWnes"
+ },
+ "foto-2.jpg": {
+  "fonte": "Unsplash",
+  "id": "bU6JyhSI6zo",
+  "autor": "Dose Media",
+  "autor_url": "https://unsplash.com/@dose?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/pen-notebook-and-smartphone-on-table-bU6JyhSI6zo"
+ },
+ "foto-4.jpg": {
+  "fonte": "Unsplash",
+  "id": "NrBhrpvbKY8",
+  "autor": "Swello",
+  "autor_url": "https://unsplash.com/@getswello?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/person-using-smartphone-at-workspace-NrBhrpvbKY8"
+ }
+}
