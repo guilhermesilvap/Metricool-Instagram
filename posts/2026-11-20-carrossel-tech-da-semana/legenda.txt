@@ -1,0 +1,22 @@
+O WhatsApp começou a liberar o agendamento de mensagens no Brasil. Veja isso e mais 2 novidades de tecnologia da semana para quem tem negócio.
+
+1. WhatsApp: mensagem com dia e hora para sair
+Nesta semana, parte das contas brasileiras passou a conseguir agendar mensagens em conversas e grupos. No WhatsApp Web, é só escrever, clicar no ícone de relógio ao lado do botão de enviar e escolher a data e o horário. Nos testes, deu para agendar texto e imagem, mas não áudio nem documento.
+A liberação é gradual: o recurso apareceu principalmente no WhatsApp Web e em alguns iPhones, e a Meta ainda não anunciou o lançamento oficial. Quando chegar aí, dá para deixar programados lembretes, avisos e o retorno ao cliente.
+
+2. Google: Gemini 4 Neon
+Na quinta (19/11), o Google lançou o Gemini 4 Neon, uma versão intermediária do Gemini pensada para o trabalho do dia a dia, como analisar textos, planilhas e PDFs. Segundo o Google, ele é mais rápido e custa menos que os modelos anteriores.
+Ele já está no app Gemini para assinantes Google AI Pro e Ultra e na API para empresas e desenvolvedores.
+
+3. OpenAI: GPT-6.2 Astra e Sol
+Na terça (17/11), a OpenAI lançou dois modelos: o GPT-6.2 Astra, para projetos complexos, e o GPT-6.2 Sol, para o trabalho do dia a dia. A OpenAI diz que eles criam documentos, planilhas e apresentações melhores e seguem mais de perto o modelo que você enviar.
+Eles chegam ao ChatGPT Work e ao Codex nos planos Plus, Pro, Enterprise e Edu.
+
+Agendar uma mensagem já ajuda. Automatizar o processo inteiro (lembrete, confirmação, retorno ao cliente) tira esse trabalho da equipe de vez. A Bifrost faz isso para pequenas e médias empresas.
+
+Salve para testar o agendamento quando chegar aí e envie para quem cuida do atendimento. Qual dessas novidades você vai usar primeiro? Comenta 1, 2 ou 3.
+
+Fontes: GCMais (19/11/2026), Mobile Time (19/11/2026) e MacMagazine (17/11/2026).
+Fotos: Kellen Riggin / Unsplash · Ruan Richard Rodrigues / Unsplash · Raymond Pang / Unsplash · LinkedIn Sales Solutions / Unsplash
+
+#whatsappbusiness #automacaodeprocessos #googlegemini #chatgpt #inteligenciaartificial

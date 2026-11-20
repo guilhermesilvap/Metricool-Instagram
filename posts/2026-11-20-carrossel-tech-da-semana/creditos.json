@@ -1,0 +1,30 @@
+{
+ "foto-1.jpg": {
+  "fonte": "Unsplash",
+  "id": "58Xgl3BVQ4s",
+  "autor": "Kellen Riggin",
+  "autor_url": "https://unsplash.com/@kalaniparker?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/smartphone-and-smartwatches-on-charging-station-58Xgl3BVQ4s"
+ },
+ "foto-2.jpg": {
+  "fonte": "Unsplash",
+  "id": "pK3ozoRgQGc",
+  "autor": "Ruan Richard Rodrigues",
+  "autor_url": "https://unsplash.com/@ricdeoliveira?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/a-woman-holding-a-cell-phone-in-her-hands-pK3ozoRgQGc"
+ },
+ "foto-3.jpg": {
+  "fonte": "Unsplash",
+  "id": "5zv1aiqu0YA",
+  "autor": "Raymond Pang",
+  "autor_url": "https://unsplash.com/@raypang?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/macbook-air-on-brown-wooden-table-5zv1aiqu0YA"
+ },
+ "foto-4.jpg": {
+  "fonte": "Unsplash",
+  "id": "0QvTyp0gH3A",
+  "autor": "LinkedIn Sales Solutions",
+  "autor_url": "https://unsplash.com/@linkedinsalesnavigator?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/person-typing-on-macbook-pro-on-brown-wooden-table-during-daytime-photo-0QvTyp0gH3A"
+ }
+}
