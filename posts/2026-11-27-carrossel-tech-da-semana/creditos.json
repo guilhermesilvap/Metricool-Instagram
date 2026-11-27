@@ -1,0 +1,30 @@
+{
+ "foto-1.jpg": {
+  "fonte": "Unsplash",
+  "id": "QiPe0UpC0_U",
+  "autor": "David Dvořáček",
+  "autor_url": "https://unsplash.com/@dafidvor?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/two-persons-hands-holding-turned-on-phones-QiPe0UpC0_U"
+ },
+ "foto-2.jpg": {
+  "fonte": "Unsplash",
+  "id": "Yv6OkD0wyA4",
+  "autor": "SumUp",
+  "autor_url": "https://unsplash.com/@sumup?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/a-woman-is-paying-at-a-computer-in-a-store-Yv6OkD0wyA4"
+ },
+ "foto-3.jpg": {
+  "fonte": "Unsplash",
+  "id": "0xFFNHXRchM",
+  "autor": "Kelly Sikkema",
+  "autor_url": "https://unsplash.com/@kellysikkema?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/a-cell-phone-on-a-laptop-0xFFNHXRchM"
+ },
+ "foto-4.jpg": {
+  "fonte": "Unsplash",
+  "id": "buwxwnHoCh4",
+  "autor": "Macarena Navarro",
+  "autor_url": "https://unsplash.com/@macanavarro__?utm_source=bifrost&utm_medium=referral",
+  "pagina": "https://unsplash.com/photos/woman-works-on-laptop-with-a-latte-nearby-buwxwnHoCh4"
+ }
+}
